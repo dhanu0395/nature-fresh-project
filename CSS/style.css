@@ -251,6 +251,9 @@ img {
 .inner-margin>h3 {
     margin: 5px;
 }
+.products_cate{
+    padding-top: 0;
+}
 
 /* end of customer review section */
 
@@ -444,6 +447,7 @@ li>i {
     .inner-margin>.products_categories {
         width: 160px;
         height: 160px;
+        
     }
 }
 
