@@ -69,7 +69,7 @@ img {
 .bgtext {
     height: 300px;
     width: 100%;
-    background-image: url(/Assets/banner-bg.webp);
+    background-image: url(/assets/homepage/banner-bg.webp);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-bottom: 10px;
@@ -376,6 +376,7 @@ li>i {
 .blog_nav {
     text-decoration: none;
     color: grey;
+    margin-left: 5px;
 }
 
 .home_nav:hover,
